@@ -1,7 +1,7 @@
-# readcompressability
+# readcompressibility
 Utility for measuring the sequence complexity of reads in a fastq file using zlib compression ratio.
 
-    usage: readcompressability [options] unaligned_1.fq.gz unaligned_2.fq.gz
+    usage: readcompressibility [options] unaligned_1.fq.gz unaligned_2.fq.gz
       -check
         	Check that the read names match (for PE data)
       -limit int
